@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",K24
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/K24_892_500_480x360_194014/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",KBC
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/KBC_914_500_480x360_195032/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBS_TV
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/NBS_TV_922_500_480x360_195080/playlist.m3u8
+#EXTINF:0 tvg-id="Start.tr" group-title="Channels",STAR_TV
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/STAR_TV_904_500_480x360_194038/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TBC_1
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/TBC_1_908_500_480x360_194046/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWAHILI
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/ST_SWAHILI_854_500_480x360_191664/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RISE
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/ST_Rise_852_500_480x360_191656/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZEE_CINEMA
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/ZEE_CINEMA_1176_500_480x360_734266/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVIE_plus
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/ST_Movies_Plus_1170_500_480x360_710926/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BOLLWOOD
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/ST_BOLLYWOOD_992_500_480x360_210838/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOVELA_E
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/ST_NOVELA_E_1026_500_480x360_265682/playlist.m3u8
+#EXTINF:0 tvg-id="Colors.uk" group-title="Channels",COLORS
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",KTN_HOME
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/KTN_HOME_916_500_480x360_195036/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BUKKEDE_TV2
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/Bukkede_TV2_876_500_480x360_193976/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BUKKEDE_TV1
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/Bukkede_TV1_874_500_480x360_193972/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",REMBO_TV
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/REMBO_TV_1062_500_480x360_352210/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SANYUKA_TV
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/SANYUKA_TV_942_500_480x360_195156/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NTV_KE
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/NTV_928_500_480x360_195092/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",YORUBA
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/ST_YORUBA_902_500_480x360_194034/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOLLY WOOD
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/ST_NOLLYWOOD_PLUS_733_500_480x360_73715/playlist.m3u8
+#EXTINF:0 tvg-id="StarOne.uk" group-title="Channels",STAR LIFE
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/STAR_LIFE_1034_500_480x360_277468/playlist.m3u8
+#EXTINF:0 tvg-id="film-box" group-title="Channels",FILMBOX
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/FILMBOX_1232_500_480x360_1135856/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NINA_TV_E
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/NINA_TV_E_1220_500_480x360_1089978/playlist.m3u8
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Channels",TLNOVELAS
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/TLNovelas_1234_500_480x360__TS/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOVELA_E
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live_record/ST_NOVELA_E_PLUS_631_500_480x360_7781/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BORDER_TV
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/BORDER_TV_872_500_480x360_193968/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SINO_DRAMA
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/ST_SINO_DRAMA_986_500_480x360_210816/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",KUNGFU
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live_record/ST_KUNGFU_627_500_480x360_7771/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC_MOVIES
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/AMC_MOVIES_990_500_480x320_210830/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC_SERIS
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/AMC_Series_1070_500_480x360_424208/playlist.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/FOX_1198_500_480x360_825182/playlist.m3u8
+#EXTINF:0 tvg-id="DubaiOne.net" group-title="Channels",DUBAI ONE
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="MBC1.net" group-title="Channels",MBC1
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
+#EXTINF:0 tvg-id="MBC2.net" group-title="Channels",MBC2
+https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+#EXTINF:0 tvg-id="MBC4.net" group-title="Channels",MBC4
+https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MBC5
+https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
+#EXTINF:0 tvg-id="MBCAction.net" group-title="Channels",MBC_ACTION
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_10.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MBC_DRAMA
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MBC_PLUS
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_1.m3u8
+#EXTINF:0 tvg-id="MBCMax.net" group-title="Channels",MBC_MAX
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MBC_PERSIA
+https://shls-mbcpersia-prod.shahid.net/mbcpersia-prod.m3u8
